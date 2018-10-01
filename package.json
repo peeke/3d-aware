@@ -1,0 +1,26 @@
+{
+  "name": "3d-aware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peeke/3d-aware.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peeke/3d-aware/issues"
+  },
+  "homepage": "https://github.com/peeke/3d-aware#readme",
+  "dependencies": {
+    "three": "^0.97.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}
